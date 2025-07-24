@@ -130,7 +130,6 @@ Instituição precisa de sistema para controle de custos, com informações de a
 
 Relacionamentos: aluno-curso, professor-curso, professor-aluno
 
-![imagem-3.png](attachment:imagem-3.png)
 
 ---
 
